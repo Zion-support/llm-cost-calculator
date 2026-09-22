@@ -1,20 +1,23 @@
 # LLM Cost Calculator
 
-Estimate and compare token spend across major LLM providers (OpenAI, Anthropic, Google, open-weight models) before you commit to a model.
+Estimate and compare monthly LLM token spend across popular models (GPT-4o, Claude, Gemini, Llama).
 
-**Live app:** https://zion-support.github.io/llm-cost-calculator/
+Part of the Zion AI Apps Network.
 
-## Features
-- Token & context-window pricing comparison across providers
-- Input/output cost split per workload
-- Monthly spend projection from request volume
+[https://ziontechgroup.com](https://ziontechgroup.com)
 
-## Part of the Zion App Network
-- 🌐 [Zion Tech Group](https://ziontechgroup.com)
-- 🕸 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+- 🚀 Live app: https://ziontechgroup.com/llm-cost-calculator/
+- 💳 Plans & pricing: https://ziontechgroup.com/en/plans/
+- 📞 Discovery call: https://ziontechgroup.com/discovery/
+- 🧰 All tools: https://ziontechgroup.com/tools/
 
-## Related apps
-- [llm-cost-optimizer](https://github.com/Zion-support/llm-cost-optimizer) — token spend estimator & model comparison
-- [zion-ai-prompt-router](https://github.com/Zion-support/zion-ai-prompt-router) — intelligent LLM routing & cost arbitrage
-- [prompt-forge](https://github.com/Zion-support/prompt-forge) — build, optimize and score prompts
-- [ai-vendor-comparator](https://github.com/Zion-support/ai-vendor-comparator) — LLM & cloud AI pricing matrix
+## Zion App Network (related apps)
+
+- [llm-cost-optimizer](https://github.com/Zion-support/llm-cost-optimizer) — https://ziontechgroup.com/llm-cost-optimizer/
+- [ai-vendor-comparator](https://github.com/Zion-support/ai-vendor-comparator) — https://ziontechgroup.com/ai-vendor-comparator/
+- [zion-ai-prompt-router](https://github.com/Zion-support/zion-ai-prompt-router) — https://ziontechgroup.com/zion-ai-prompt-router/
+- [finops-spend-analyzer](https://github.com/Zion-support/finops-spend-analyzer) — https://ziontechgroup.com/finops-spend-analyzer/
+- [cost-anomaly-detector](https://github.com/Zion-support/cost-anomaly-detector) — https://ziontechgroup.com/cost-anomaly-detector/
+
+---
+© 2026 Zion Tech Group · https://ziontechgroup.com/
